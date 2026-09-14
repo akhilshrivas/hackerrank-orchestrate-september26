@@ -1,0 +1,4 @@
+log.txt
+/code.zip*.zip
+__pycache__/
+output.csv
